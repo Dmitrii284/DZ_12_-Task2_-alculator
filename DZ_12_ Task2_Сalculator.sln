@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_12_ Task2_Сalculator", "DZ_12_ Task2_Сalculator\DZ_12_ Task2_Сalculator.vcxproj", "{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Debug|x64.ActiveCfg = Debug|x64
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Debug|x64.Build.0 = Debug|x64
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Debug|x86.ActiveCfg = Debug|Win32
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Debug|x86.Build.0 = Debug|Win32
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Release|x64.ActiveCfg = Release|x64
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Release|x64.Build.0 = Release|x64
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Release|x86.ActiveCfg = Release|Win32
+		{A30FEF8C-E2C1-462A-BB6D-CC3067D1E124}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6A87906-32E1-4D97-B7D7-B53198B527CC}
+	EndGlobalSection
+EndGlobal
